@@ -1,0 +1,14 @@
+{
+  "resourceName": "noteimagestorage",
+  "policyUUID": "552ecb13",
+  "bucketName": "amplifydemoimagestorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
